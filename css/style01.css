@@ -3,8 +3,8 @@ body {
 	foreground-color: red;
 }
 
-form {
-	background-color: #ffffcc;
+#optionsPanel {
+	background-color: #000000;
 	width: 400px;
 	height: 800px;
 	margin: 10px;
